@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "VSLbskN6gzOU9ikNSNhc766WOCoOygYyVQWQ6s57FR/uEB4LGPMFHo1QIJqtkEaik7kKn9ToraUib49bSNFgHg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\oni\\Desktop\\FINAL MODULE 13\\3\\git exercise\\GitExercise\\GitExercise.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\oni\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
