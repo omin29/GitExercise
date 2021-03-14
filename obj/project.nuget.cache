@@ -1,10 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "VSLbskN6gzOU9ikNSNhc766WOCoOygYyVQWQ6s57FR/uEB4LGPMFHo1QIJqtkEaik7kKn9ToraUib49bSNFgHg==",
+  "dgSpecHash": "ZzWB5fwB9VajYEPbB+OFcXsk10TXrLXXidQgvL8uGa7pUxu4I6axuw7OQx/IKd9bwbRgPnQcruonMTdyC99m7Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\oni\\Desktop\\FINAL MODULE 13\\3\\git exercise\\GitExercise\\GitExercise.csproj",
+  "projectFilePath": "f:\\Clone\\t3\\GitExercise.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\oni\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512"
+    "C:\\Users\\Ketaha\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\Ketaha\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\Ketaha\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\Ketaha\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512"
   ],
   "logs": []
 }
