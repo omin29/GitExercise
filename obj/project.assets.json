@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\oni\\Desktop\\FINAL MODULE 13\\3\\git exercise\\GitExercise\\GitExercise.csproj",
+      "projectUniqueName": "C:\\Git\\GitExercise\\GitExercise.csproj",
       "projectName": "GitExercise",
-      "projectPath": "C:\\Users\\oni\\Desktop\\FINAL MODULE 13\\3\\git exercise\\GitExercise\\GitExercise.csproj",
+      "projectPath": "C:\\Git\\GitExercise\\GitExercise.csproj",
       "packagesPath": "C:\\Users\\oni\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\oni\\Desktop\\FINAL MODULE 13\\3\\git exercise\\GitExercise\\obj\\",
+      "outputPath": "C:\\Git\\GitExercise\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\oni\\AppData\\Roaming\\NuGet\\NuGet.Config",
