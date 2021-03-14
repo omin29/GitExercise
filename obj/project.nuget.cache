@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VSLbskN6gzOU9ikNSNhc766WOCoOygYyVQWQ6s57FR/uEB4LGPMFHo1QIJqtkEaik7kKn9ToraUib49bSNFgHg==",
+  "dgSpecHash": "o9B9+dTsCv5bwkUakSAm9U7o2ueIm4a7YpQWOrXjcroG3UOhvFldKVhjN0EWw0jSzAI/n5VR441U/Cxy3ZTGpA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\oni\\Desktop\\FINAL MODULE 13\\3\\git exercise\\GitExercise\\GitExercise.csproj",
+  "projectFilePath": "C:\\Git\\GitExercise\\GitExercise.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\oni\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512"
   ],
