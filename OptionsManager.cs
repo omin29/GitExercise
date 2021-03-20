@@ -10,7 +10,7 @@ namespace GitExercise
             "m - Multiply",
             "d - Divide",
             "sabs - Substract Abs"
-        };// RANDOM SHIT HERE
+        };// RANDOM 
 
         public static void Add(double a, double b)
         {
