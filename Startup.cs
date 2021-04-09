@@ -39,6 +39,6 @@ namespace GitExercise
 
             Console.WriteLine("Pres any key to close the app...");
             Console.ReadKey(true);
-        }//RANDOM
+        }//MASTER
     }
 }
