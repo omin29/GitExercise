@@ -1,0 +1,13 @@
+C:\Git\GitExercise\bin\Debug\netcoreapp3.0\GitExercise.exe
+C:\Git\GitExercise\bin\Debug\netcoreapp3.0\GitExercise.deps.json
+C:\Git\GitExercise\bin\Debug\netcoreapp3.0\GitExercise.runtimeconfig.json
+C:\Git\GitExercise\bin\Debug\netcoreapp3.0\GitExercise.runtimeconfig.dev.json
+C:\Git\GitExercise\bin\Debug\netcoreapp3.0\GitExercise.dll
+C:\Git\GitExercise\bin\Debug\netcoreapp3.0\GitExercise.pdb
+C:\Git\GitExercise\obj\Debug\netcoreapp3.0\GitExercise.csprojAssemblyReference.cache
+C:\Git\GitExercise\obj\Debug\netcoreapp3.0\GitExercise.AssemblyInfoInputs.cache
+C:\Git\GitExercise\obj\Debug\netcoreapp3.0\GitExercise.AssemblyInfo.cs
+C:\Git\GitExercise\obj\Debug\netcoreapp3.0\GitExercise.csproj.CoreCompileInputs.cache
+C:\Git\GitExercise\obj\Debug\netcoreapp3.0\GitExercise.dll
+C:\Git\GitExercise\obj\Debug\netcoreapp3.0\GitExercise.pdb
+C:\Git\GitExercise\obj\Debug\netcoreapp3.0\GitExercise.genruntimeconfig.cache
