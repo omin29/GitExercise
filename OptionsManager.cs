@@ -10,7 +10,7 @@ namespace GitExercise
             "m - Multiply",
             "d - Divide",
             "sabs - Substract Abs"
-        };
+        };//MASTER
 
         public static void Add(double a, double b)
         {
